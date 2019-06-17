@@ -1,0 +1,58 @@
+﻿body {
+    font-family: 'Raleway';
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: inline-block;
+    color: #fff;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: red;
+    text-align: left;
+   
+}
+
+.right{
+    float:right;
+}
+
+h1 {
+    text-align: center;
+}
+
+.auto-style1 {
+    width: 100%;
+}
+
+.auto-style2 {
+    text-align: center;
+    height: 105px;
+}
+
+.auto-style3 {
+    height: 26px;
+}
+
+.auto-style4 {
+    height: 376px;
+}
+
+.auto-style5 {
+    text-align: center;
+}

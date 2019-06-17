@@ -1,0 +1,232 @@
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\APMS.dll.config
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\APMS.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\APMS.pdb
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\obj\Debug\APMS.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\obj\Debug\APMS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\obj\Debug\APMS.csproj.CopyComplete
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\obj\Debug\APMS.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\Task2C\APMS\APMS\obj\Debug\APMS.pdb
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\APMS.dll.config
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\APMS.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\APMS.pdb
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\obj\Debug\APMS.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\obj\Debug\APMS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\obj\Debug\APMS.csproj.CopyComplete
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\obj\Debug\APMS.dll
+C:\Users\Admin\Desktop\Continuous CI + CD\Assignment\Individual\APMS\APMS\obj\Debug\APMS.pdb
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\APMS.dll.config
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\APMS.dll
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\APMS.pdb
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\obj\Debug\APMS.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\obj\Debug\APMS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\obj\Debug\APMS.csproj.CopyComplete
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\obj\Debug\APMS.dll
+C:\Users\Admin\Desktop\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\obj\Debug\APMS.pdb
+C:\Users\Admin\Desktop\Subjects\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\obj\Debug\APMS.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Subjects\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\obj\Debug\APMS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Subjects\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\obj\Debug\APMS.dll
+C:\Users\Admin\Desktop\Subjects\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\obj\Debug\APMS.pdb
+C:\Users\Admin\Desktop\SEMESTER_1\Subjects\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\obj\Debug\APMS.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\SEMESTER_1\Subjects\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\obj\Debug\APMS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SEMESTER_1\Subjects\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\obj\Debug\APMS.dll
+C:\Users\Admin\Desktop\SEMESTER_1\Subjects\Cont + Deply\Semester One\Assignment\Individual\APMS\APMS\obj\Debug\APMS.pdb
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\obj\Debug\APMS.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\obj\Debug\APMS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\obj\Debug\APMS.dll
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\obj\Debug\APMS.pdb
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\APMS.dll.config
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\APMS.dll
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\APMS.pdb
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\CLOUD\ClassExercise\APMS\APMS\obj\Debug\APMS.csproj.CopyComplete
